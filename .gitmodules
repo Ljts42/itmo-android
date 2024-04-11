@@ -1,0 +1,33 @@
+[submodule "itmo-android-hw1"]
+	path = itmo-android-hw1
+	url = git@github.com:Ljts42/itmo-android-hw1.git
+[submodule "itmo-android-hw2"]
+	path = itmo-android-hw2
+	url = git@github.com:Ljts42/itmo-android-hw2.git
+[submodule "itmo-android-hw3"]
+	path = itmo-android-hw3
+	url = git@github.com:Ljts42/itmo-android-hw3.git
+[submodule "itmo-android-hw4"]
+	path = itmo-android-hw4
+	url = git@github.com:Ljts42/itmo-android-hw4.git
+[submodule "itmo-android-hw5"]
+	path = itmo-android-hw5
+	url = git@github.com:Ljts42/itmo-android-hw5.git
+[submodule "itmo-android-hw6"]
+	path = itmo-android-hw6
+	url = git@github.com:Ljts42/itmo-android-hw6.git
+[submodule "itmo-android-hw7"]
+	path = itmo-android-hw7
+	url = git@github.com:Ljts42/itmo-android-hw7.git
+[submodule "itmo-android-hw8"]
+	path = itmo-android-hw8
+	url = git@github.com:Ljts42/itmo-android-hw8.git
+[submodule "itmo-android-hw9"]
+	path = itmo-android-hw9
+	url = git@github.com:Ljts42/itmo-android-hw9.git
+[submodule "itmo-android-hw10"]
+	path = itmo-android-hw10
+	url = git@github.com:Ljts42/itmo-android-hw10.git
+[submodule "itmo-android-hw11"]
+	path = itmo-android-hw11
+	url = git@github.com:Ljts42/itmo-android-hw11.git
